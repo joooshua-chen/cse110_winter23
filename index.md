@@ -25,3 +25,18 @@ Heres a link to slap a person with a eel [Eel Slap](https://eelslap.com/)
 Heres a link to go back to my favorite quote [Quote](https://github.com/joooshua-chen/cse110_winter23/blob/VSCodeBranch/index.md#quotes)
 
 [Picture of Raymond In My Repo](/fish.JPG)
+
+Anime That I'm Watching Currently
+- Dorohedoro
+- Dr. Stone
+- Vindland Saga
+
+Favorite Video Games
+1. Persona 5 Royal
+2. Kirby and The Forgotten Land
+3. The Binding Of Isaac
+
+List of Animes I Recommend 
+- [] Chainsaw Man
+- [] Mob Psycho
+- [] Dorohedoro
