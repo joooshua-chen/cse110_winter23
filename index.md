@@ -24,4 +24,4 @@ Heres a link to slap a person with a eel [Eel Slap](https://eelslap.com/)
 
 Heres a link to go back to my favorite quote [Quote](https://github.com/joooshua-chen/cse110_winter23/blob/VSCodeBranch/index.md#quotes)
 
-[Picture of Raymond In My Repo](/fish.jpg)
+[Picture of Raymond In My Repo](/fish.JPG)
