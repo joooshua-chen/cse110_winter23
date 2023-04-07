@@ -29,7 +29,7 @@ Heres a link to go back to my favorite quote [Quote](https://joooshua-chen.githu
 Anime That I'm Watching Currently
 - Dorohedoro
 - Dr. Stone
-- Vindland Saga
+- Vinland Saga
 
 Favorite Video Games
 1. Persona 5 Royal
@@ -37,6 +37,6 @@ Favorite Video Games
 3. The Binding Of Isaac
 
 List of Animes I Recommend 
-- [] Chainsaw Man
-- [] Mob Psycho
-- [] Dorohedoro
+- [ ] Chainsaw Man
+- [ ] Mob Psycho
+- [ ] Dorohedoro
