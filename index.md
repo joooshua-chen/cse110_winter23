@@ -1,8 +1,8 @@
 # Joshua's User Page
 
 ## My Pets
-[My Pet Pufferfish Raymond](fish.JPG)
-[My Pet Bird Taro](bird.jpg)
+![My Pet Pufferfish Raymond](fish.JPG)
+![My Pet Bird Taro](bird.jpg)
 
 Here are some of my pets. The fish is a pufferfish named **Raymond** and the bird is a budgie named **Taro**. They are both **_very_ destructive**
 
