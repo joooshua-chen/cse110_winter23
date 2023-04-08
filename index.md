@@ -36,7 +36,7 @@ Favorite Video Games
 2. Kirby and The Forgotten Land
 3. The Binding Of Isaac
 
-List of Animes I Recommend 
-- [ ] Chainsaw Man
-- [ ] Mob Psycho
-- [ ] Dorohedoro
+List of Animes I Need to Watch
+- [X] Chainsaw Man
+- [ ] Naruto
+- [X] Dorohedoro
